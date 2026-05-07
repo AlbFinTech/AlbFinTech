@@ -30,6 +30,12 @@ I keep my toolset sharp and focused rather than unnecessarily broad. My expertis
 *   <img align="center" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="20"/> **Rust:** My go-to for systems programming. I appreciate strict memory safety and high-performance execution.
 *   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="20"/> **Python:** Utilized for rapid prototyping, data processing, backend logic, and versatile automation.
 
+### Editors & Environment
+
+*   <img align="center" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" height="20"/> **Neovim:** My primary and preferred editor. Heavily customized for an optimal, keyboard-driven terminal workflow.
+*   <img align="center" src="https://img.shields.io/badge/Vim-11AB00?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="20"/> **Vim:** The classic reliable tool for quickly editing configuration files on remote servers.
+*   <img align="center" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="20"/> **VS Code:** Kept in the arsenal for specific visual extensions or when a full IDE environment is necessary.
+
 ---
 
 ## GitHub Analytics
