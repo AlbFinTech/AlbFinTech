@@ -114,8 +114,6 @@ Neovim   [████████████████████] 100% ful
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbFinTech&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41" alt="activity graph" width="100%"/>
 </div>
 
-> Note: this graph pulls your real contribution history live from GitHub — it'll look sparse until you have public commit activity, which is expected and not a flaw in the README.
-
 ---
 
 ### `$ cat status.yaml`
