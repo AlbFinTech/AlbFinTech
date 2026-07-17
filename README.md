@@ -8,21 +8,49 @@
 
 <div align="center">
 
-**Linux tinkerer. Rust learner. Terminal-first workflow.**
+<img src="https://img.shields.io/badge/status-online-00FF41?style=for-the-badge&labelColor=0D1117" alt="status" />
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+**Linux tinkerer &nbsp;•&nbsp; Rust learner &nbsp;•&nbsp; terminal-first workflow**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux" />
+<img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=00FF41" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python" />
+<img src="https://img.shields.io/badge/Neovim-0D1117?style=for-the-badge&logo=neovim&logoColor=00FF41" alt="Neovim" />
 
 </div>
 
 ---
 
-### $ cat about.txt
+### `$ neofetch`
 
-Nuk jam inxhinjer profesionist — jam dikush që i pëlqen të hyjë thellë në sisteme, të mësojë duke prishur gjëra dhe pastaj duke gjetur pse u prishën. E ndërtoj kodin për kënaqësinë e vetë procesit, jo për CV.
+```
+        _nnnn_                      user@AlbFinTech
+       dGGGGMMb                     -----------------
+      @p~qp~~qMb                    OS: Arch-based / Debian-based Linux
+      M|@||@) M|                    Shell: zsh + tmux
+      @,----.JM|                    Editor: Neovim (custom config)
+     JS^\__/  qKL                   Languages: Rust, Python
+    dZP        qKRb                 Focus: systems & low-level programming
+   dZP          qKKb                Status: learning, breaking, fixing
+  fZP            SMMb                Uptime: still debugging since day one
+  HZM            MMMM
+  FqM            MMMM
+__| ".        |\dS"qML
+|    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
+```
 
-Aktualisht po eksploroj programimin e sistemeve, kryesisht me Rust dhe Linux, dhe përdor Python kur më duhet diçka e shpejtë dhe praktike.
+---
+
+### `$ cat about.txt`
+
+Not a professional engineer — someone who likes to go deep into systems, learn by breaking things, and then figure out why they broke. I build for the process itself, not for a resume line.
+
+Right now I'm exploring systems programming, mostly through Rust and Linux, and I reach for Python whenever I need something fast and practical. Most of what I know so far comes from personal projects, reading source code, and a lot of trial and error — not formal training.
 
 ```
 > philosophy --print
@@ -32,31 +60,77 @@ Aktualisht po eksploroj programimin e sistemeve, kryesisht me Rust dhe Linux, dh
 
 ---
 
-### $ ls ./stack
+### `$ ls ./stack`
 
-| Sistem & Gjuhë | Editorë |
-|---|---|
-| 🐧 **Linux** — mjedisi ku punoj çdo ditë | 💻 **Neovim** — editori kryesor, i konfiguruar për punë të shpejtë me tastierë |
-| 🦀 **Rust** — po e mësoj për programim sistemesh | ⌨️ **Vim** — për redaktim të shpejtë në servera remote |
-| 🐍 **Python** — për prototipe, automatizim, procesim të dhënash | 🧩 **VS Code** — kur më duhet IDE i plotë |
+<table>
+<tr>
+<th align="left">Systems & Languages</th>
+<th align="left">Editors</th>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41" height="22"/><br/>
+Daily-driver environment — I live in the terminal.
+
+<img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=00FF41" height="22"/><br/>
+Learning it for systems-level programming and memory safety.
+
+<img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" height="22"/><br/>
+Used for prototyping, automation, and data processing.
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/-Neovim-0D1117?style=flat-square&logo=neovim&logoColor=00FF41" height="22"/><br/>
+Primary editor, heavily customized for keyboard-driven work.
+
+<img src="https://img.shields.io/badge/-Vim-0D1117?style=flat-square&logo=vim&logoColor=00FF41" height="22"/><br/>
+Quick edits on remote servers.
+
+<img src="https://img.shields.io/badge/-VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF41" height="22"/><br/>
+Kept around for when a full IDE is needed.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### $ cat status.yaml
+### `$ cat skill_progress.log`
+
+```
+Linux    [██████████████████░░] 90%  daily driver
+Rust     [██████████░░░░░░░░░░] 50%  learning systems concepts
+Python   [████████████████░░░░] 80%  comfortable, scripting & automation
+Neovim   [████████████████████] 100% fully configured, no going back
+```
+
+---
+
+### `$ git log --graph --oneline`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbFinTech&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41" alt="activity graph" width="100%"/>
+</div>
+
+> Note: this graph pulls your real contribution history live from GitHub — it'll look sparse until you have public commit activity, which is expected and not a flaw in the README.
+
+---
+
+### `$ cat status.yaml`
 
 ```yaml
-duke_kerkuar_pune: false
-hapur_per:
-  - projekte teknike interesante
-  - bashkëpunime open-source
-  - sfida që lidhen me Linux / Rust / Python
-motivimi: "kënaqësia e të kuptuarit se si punojnë gjërat"
+looking_for_work: false
+open_to:
+  - interesting technical projects
+  - open-source collaboration
+  - challenges around Linux / Rust / Python
+motivation: "the satisfaction of understanding how things work"
 ```
 
 ---
 
 <div align="center">
-
-<sub>Faleminderit që kalove këtu.</sub>
-
+<img src="https://img.shields.io/badge/thanks_for_stopping_by-0D1117?style=flat-square&logoColor=00FF41" alt="thanks" />
 </div>
