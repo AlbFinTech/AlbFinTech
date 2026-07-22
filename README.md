@@ -23,7 +23,7 @@
 
 ---
 
-### `$ neofetch`
+### `$ fastfetch`
 
 ```
         _nnnn_                      user@AlbFinTech
