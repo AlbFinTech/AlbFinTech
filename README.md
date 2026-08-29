@@ -28,7 +28,7 @@
 ```
         _nnnn_                      user@AlbFinTech
        dGGGGMMb                     -----------------
-      @p~qp~~qMb                    OS: Arch-based / Debian-based Linux
+      @p~qp~~qMb                    OS: Fedora-KDE
       M|@||@) M|                    Shell: zsh + tmux
       @,----.JM|                    Editor: Neovim (custom config)
      JS^\__/  qKL                   Languages: Rust, Python
