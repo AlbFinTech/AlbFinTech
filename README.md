@@ -112,6 +112,8 @@ Neovim   [████████████████████] 100% ful
 
 <div align="center">
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlbFinTech&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41)](https://github.com/AlbFinTech)
+
+<p>If the activity graph above doesn't load, <a href="https://github.com/AlbFinTech">view my GitHub profile</a>.</p>
 </div>
 
 ---
