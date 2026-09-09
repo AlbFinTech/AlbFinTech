@@ -88,7 +88,8 @@ Primary editor, heavily customized for keyboard-driven work.
 <img src="https://img.shields.io/badge/-Vim-0D1117?style=flat-square&logo=vim&logoColor=00FF41" height="22"/><br/>
 Quick edits on remote servers.
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00FF41) <br/>
+<!-- Use shields.io with the official logo slug visual-studio-code and explicit alt text. If shields fails, a plaintext fallback "VS Code" follows so the section is never empty. -->
+<img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00FF41" height="22" alt="VS Code" /> <span>VS Code</span><br/>
 Kept around for when a full IDE is needed.
 
 </td>
@@ -111,9 +112,9 @@ Neovim   [████████████████████] 100% ful
 ### `$ git log --graph --oneline`
 
 <div align="center">
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlbFinTech&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41)](https://github.com/AlbFinTech)
 
-<p>If the activity graph above doesn't load, <a href="https://github.com/AlbFinTech">view my GitHub profile</a>.</p>
+[![AlbFinTech's GitHub chart](https://ghchart.rshah.org/AlbFinTech)](https://github.com/AlbFinTech)
+
 </div>
 
 ---
