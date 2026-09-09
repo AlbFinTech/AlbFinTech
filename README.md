@@ -1,4 +1,4 @@
-```
+``` 
    _   _ _   ______ _       _____         _
   / \ | | |_|  ____(_)_ __ |_   _|__  ___| |__
  / _ \| | __| |__ _| | '_ \  | |/ _ \/ __| '_ \
@@ -50,7 +50,7 @@ _)      \.___.,|     .'
 
 Not a professional engineer — someone who likes to go deep into systems, learn by breaking things, and then figure out why they broke. I build for the process itself, not for a resume line.
 
-Right now I'm exploring systems programming, mostly through Rust and Linux, and I reach for Python whenever I need something fast and practical. Most of what I know so far comes from personal projects, reading source code, and a lot of trial and error — not formal training.
+Right now I'm exploring systems programming, mostly through Rust and Linux, and I reach for Python whenever I need something fast and practical. Most of what I know so far comes from personal proj[...]
 
 ```
 > philosophy --print
@@ -88,7 +88,7 @@ Primary editor, heavily customized for keyboard-driven work.
 <img src="https://img.shields.io/badge/-Vim-0D1117?style=flat-square&logo=vim&logoColor=00FF41" height="22"/><br/>
 Quick edits on remote servers.
 
-<img src="https://img.shields.io/badge/-VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF41" height="22"/><br/>
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00FF41) <br/>
 Kept around for when a full IDE is needed.
 
 </td>
@@ -111,7 +111,7 @@ Neovim   [████████████████████] 100% ful
 ### `$ git log --graph --oneline`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbFinTech&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41" alt="activity graph" width="100%"/>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlbFinTech&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41)](https://github.com/AlbFinTech)
 </div>
 
 ---
