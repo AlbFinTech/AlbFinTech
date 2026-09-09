@@ -16,10 +16,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux" />
-<img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=00FF41" alt="Rust" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python" />
-<img src="https://img.shields.io/badge/Neovim-0D1117?style=for-the-badge&logo=neovim&logoColor=00FF41" alt="Neovim" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,rust,py,neovim,vim,vscode&theme=dark" alt="Skills" />
+</a>
 
 </div>
 
@@ -66,31 +65,31 @@ Right now I'm exploring systems programming, mostly through Rust and Linux, and 
 
 <table>
 <tr>
-<th align="left">Systems & Languages</th>
-<th align="left">Editors</th>
+<th align="left" width="50%">Systems & Languages</th>
+<th align="left" width="50%">Editors</th>
 </tr>
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41" height="22"/><br/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="26"/> &nbsp;**Linux**
 Daily-driver environment — I live in the terminal.
 
-<img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=00FF41" height="22"/><br/>
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" height="26"/> &nbsp;**Rust**
 Learning it for systems-level programming and memory safety.
 
-<img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" height="22"/><br/>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" height="26"/> &nbsp;**Python**
 Used for prototyping, automation, and data processing.
 
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/-Neovim-0D1117?style=flat-square&logo=neovim&logoColor=00FF41" height="22"/><br/>
+<img src="https://skillicons.dev/icons?i=neovim&theme=dark" height="26"/> &nbsp;**Neovim**
 Primary editor, heavily customized for keyboard-driven work.
 
-<img src="https://img.shields.io/badge/-Vim-0D1117?style=flat-square&logo=vim&logoColor=00FF41" height="22"/><br/>
+<img src="https://skillicons.dev/icons?i=vim&theme=dark" height="26"/> &nbsp;**Vim**
 Quick edits on remote servers.
 
-<img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF41" height="22" alt="VS Code" /><br/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="26"/> &nbsp;**VS Code**
 Kept around for when a full IDE is needed.
 
 </td>
@@ -114,18 +113,11 @@ Neovim   [████████████████████] 100% ful
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlbFinTech&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbFinTech&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbFinTech&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub streak" />
-
-<br/><br/>
-
-[![AlbFinTech's GitHub chart](https://ghchart.rshah.org/00FF41/AlbFinTech)](https://github.com/AlbFinTech)
+[![AlbFinTech's contribution graph](https://ghchart.rshah.org/00FF41/AlbFinTech)](https://github.com/AlbFinTech)
 
 </div>
+
+<sub>↑ real, live contribution history — pulled directly from GitHub, updates automatically.</sub>
 
 ---
 
